@@ -19,18 +19,19 @@ The analysis was conducted using Python programming language and the following l
 
 The analysis includes the following steps:
 
-    Data cleaning and preprocessing: The missing values in the dataset were handled by either interpolation or filling with appropriate values. The data was also aggregated at the monthly level for easier analysis.
-    Exploratory data analysis: The data was visualized using line plots, scatter plots, and heatmaps to identify trends and relationships between variables.
-    Statistical analysis: Correlations were computed between the variables to quantify their relationships.
+- Data cleaning and preprocessing: The missing values in the dataset were handled by either interpolation or filling with appropriate values. 
+- The data was also aggregated at the monthly level for easier analysis.
+- Exploratory data analysis: The data was visualized using line plots, scatter plots, and heatmaps to identify trends and relationships between variables.
+- Statistical analysis: Correlations were computed between the variables to quantify their relationships.
 
 ## Results
 
 The analysis revealed the following insights:
 
-    Delhi is a city with high temperatures, with the mean temperature around 25 degrees Celsius.
-    The months of April, May, and June experience the highest temperatures, while the temperatures are lowest in January.
-    There is a direct correlation between temperature and humidity, where an increase in temperature results in a decrease in humidity.
-    Wind speed and pressure do not show any clear trends over time.
+- Delhi is a city with high temperatures, with the mean temperature around 25 degrees Celsius.
+- The months of April, May, and June experience the highest temperatures, while the temperatures are lowest in January.
+- There is a direct correlation between temperature and humidity, where an increase in temperature results in a decrease in humidity.
+- Wind speed and pressure do not show any clear trends over time.
 
 ## Conclusion
 
